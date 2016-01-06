@@ -1,0 +1,38 @@
+<Solution>
+  <PropertyGroup Name="GetOutSun" Version="2.3.1.2" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="Layer_Cfg.csd" Type="Layer" />
+        <Project Name="Layer_Start.csd" Type="Layer" />
+        <Project Name="Layer_GameOver.csd" Type="Layer" />
+        <Folder Name="R">
+          <Image Name="start_btn_main.png" />
+          <Image Name="arrow.png" />
+          <Image Name="hand.png" />
+          <Image Name="MainScenceCFG.png" />
+          <Image Name="reflash.png" />
+          <Image Name="cx.png" />
+          <Image Name="MainScenceBtn_2.png" />
+          <Folder Name="word">
+            <Image Name="1.png" />
+            <Image Name="2.png" />
+            <Image Name="cfg.png" />
+            <Image Name="fail.png" />
+            <Image Name="p2.png" />
+            <Image Name="success2.png" />
+            <Image Name="up1.png" />
+            <Image Name="a1.png" />
+          </Folder>
+          <Image Name="add_speed.png" />
+          <Image Name="minus_sprrd.png" />
+          <Image Name="pencent.png" />
+          <Image Name="m_0.png" />
+        </Folder>
+        <Project Name="Layer_Prepare.csd" Type="Layer" />
+        <Project Name="Scene_Main.csd" Type="Scene" />
+        <Project Name="Layer_gover.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

@@ -1,0 +1,45 @@
+<UserData Version="2.3.1.2">
+  <Properties>
+    <Item Key="PackageParamsKey">
+      <Value ctype="PackageParams">
+        <LuaIsEncrypt Value="False" />
+        <LuaEncryptKey Value="" />
+        <LuaEncryptSign Value="" />
+        <Android_PackageName Value="org.cocos.GetOutSun" />
+        <AndroidkeyStore Value="" />
+        <AndroidVersion Value="" />
+        <iOS_Target Value="GetOutSun iOS" />
+        <iOS_BundleID Value="" />
+        <Platform Value="None" />
+        <RunPlatform Value="Windows" />
+        <FrameworkVersion Value="cocos2d-x-3.7" />
+        <IsDebugKeystore Value="True" />
+        <KeystorePassword Value="" />
+        <KeystoreAliasName Value="" />
+        <KeystoreAliasPassword Value="" />
+        <EnableSourceMap Value="False" />
+        <EnableHTML5Advanced Value="False" />
+      </Value>
+    </Item>
+    <Item Key="CocosRecentOperation">
+      <Value ctype="CocosRecentOperation">
+        <LastPublishType Value="Resource" />
+        <IsLastPublish Value="True" />
+        <LastRunType Value="Windows" />
+      </Value>
+    </Item>
+    <Item Key="TabsParamsKey">
+      <Value ctype="TabsInfo">
+        <OpenedDocuments>
+          <FilePathData Path="Scene_Main.csd" />
+          <FilePathData Path="Layer_Start.csd" />
+          <FilePathData Path="Layer_Prepare.csd" />
+          <FilePathData Path="Layer_gover.csd" />
+          <FilePathData Path="Layer_GameOver.csd" />
+          <FilePathData Path="Layer_Cfg.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="Layer_Cfg.csd" />
+      </Value>
+    </Item>
+  </Properties>
+</UserData>

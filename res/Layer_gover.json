@@ -1,0 +1,377 @@
+{
+  "ID": "d1e22e6b-0a6e-4b30-a444-788919f88481",
+  "Version": "2.3.1.2",
+  "Name": "Layer_gover",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 24,
+        "Children": [
+          {
+            "BackColorAlpha": 204,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 27,
+            "Children": [
+              {
+                "FontSize": 48,
+                "ButtonText": "再试一次",
+                "TextColor": {},
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "R/MainScenceBtn_2.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 320,
+                "Scale9Height": 58,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "G": 127,
+                  "B": 80
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 324.5424,
+                  "Y": 207.1682
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5071,
+                  "Y": 0.1824
+                },
+                "PreSize": {
+                  "X": 0.5469,
+                  "Y": 0.0704
+                },
+                "LeftMargin": 149.5424,
+                "RightMargin": 140.4576,
+                "TopMargin": 888.8318,
+                "BottomMargin": 167.1682,
+                "Tag": 30,
+                "ActionTag": 825141555,
+                "Size": {
+                  "X": 350.0,
+                  "Y": 80.0
+                },
+                "Name": "Button_Again",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "R/cx.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 227,
+                "Scale9Height": 226,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 330.7261,
+                  "Y": 413.6892
+                },
+                "Scale": {
+                  "ScaleX": 1.1251,
+                  "ScaleY": 1.1251
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5168,
+                  "Y": 0.3642
+                },
+                "PreSize": {
+                  "X": 0.3547,
+                  "Y": 0.1989
+                },
+                "LeftMargin": 217.2261,
+                "RightMargin": 195.7739,
+                "TopMargin": 609.3108,
+                "BottomMargin": 300.6892,
+                "CallBackType": "Click",
+                "Tag": 31,
+                "ActionTag": -1839752766,
+                "Size": {
+                  "X": 227.0,
+                  "Y": 226.0
+                },
+                "Name": "Image_Monster",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "R/word/fail.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 663,
+                "Scale9Height": 203,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 333.7769,
+                  "Y": 891.0625
+                },
+                "Scale": {
+                  "ScaleX": 0.7,
+                  "ScaleY": 0.7
+                },
+                "CColor": {
+                  "G": 184,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5215,
+                  "Y": 0.7844
+                },
+                "PreSize": {
+                  "X": 1.0359,
+                  "Y": 0.1787
+                },
+                "LeftMargin": 2.2769,
+                "RightMargin": -25.2769,
+                "TopMargin": 143.4375,
+                "BottomMargin": 789.5625,
+                "Tag": 40,
+                "ActionTag": 1130469804,
+                "Size": {
+                  "X": 663.0,
+                  "Y": 203.0
+                },
+                "Name": "Image_2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "R/word/p2.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 413,
+                "Scale9Height": 56,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 321.254,
+                  "Y": 722.6505
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 218,
+                  "G": 111,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.502,
+                  "Y": 0.6361
+                },
+                "PreSize": {
+                  "X": 0.6453,
+                  "Y": 0.0493
+                },
+                "LeftMargin": 114.754,
+                "RightMargin": 112.246,
+                "TopMargin": 385.3495,
+                "BottomMargin": 694.6505,
+                "Tag": 41,
+                "ActionTag": -1129921262,
+                "Size": {
+                  "X": 413.0,
+                  "Y": 56.0
+                },
+                "Name": "Image_4",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "R/pencent.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 288,
+                "Scale9Height": 46,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 318.9041,
+                  "Y": 614.0295
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4983,
+                  "Y": 0.5405
+                },
+                "PreSize": {
+                  "X": 0.45,
+                  "Y": 0.0405
+                },
+                "LeftMargin": 174.9041,
+                "RightMargin": 177.0959,
+                "TopMargin": 498.9705,
+                "BottomMargin": 591.0295,
+                "Tag": 42,
+                "ActionTag": -1516294746,
+                "Size": {
+                  "X": 288.0,
+                  "Y": 46.0
+                },
+                "Name": "Image_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 36,
+                "LabelText": "99",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "G": 127,
+                  "B": 80
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 343.5687,
+                  "Y": 618.2512
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 101,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5368,
+                  "Y": 0.5442
+                },
+                "PreSize": {
+                  "X": 0.1094,
+                  "Y": 0.044
+                },
+                "LeftMargin": 308.5687,
+                "RightMargin": 261.4313,
+                "TopMargin": 492.7488,
+                "BottomMargin": 593.2512,
+                "Tag": 43,
+                "ActionTag": 756281581,
+                "Size": {
+                  "X": 70.0,
+                  "Y": 50.0
+                },
+                "Name": "Text_Percent",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1252274887,
+            "Size": {
+              "X": 640.0,
+              "Y": 1136.0
+            },
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1136.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "R/cx.png",
+        "R/MainScenceBtn_2.png",
+        "R/pencent.png",
+        "R/word/fail.png",
+        "R/word/p2.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

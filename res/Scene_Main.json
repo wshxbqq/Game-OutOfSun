@@ -1,0 +1,277 @@
+{
+  "ID": "05fcf22e-2176-44b7-bcf5-7b5ea63a370d",
+  "Version": "2.3.1.2",
+  "Name": "Scene_Main",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 19,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "R/MainScenceCFG.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 120,
+            "Scale9Height": 128,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 559.0594,
+              "Y": 1052.124
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8735,
+              "Y": 0.9262
+            },
+            "PreSize": {
+              "X": 0.2344,
+              "Y": 0.132
+            },
+            "LeftMargin": 484.0594,
+            "RightMargin": 5.9406,
+            "TopMargin": 8.876,
+            "BottomMargin": 977.124,
+            "Tag": 2,
+            "ActionTag": -1553604881,
+            "Size": {
+              "X": 150.0,
+              "Y": 150.0
+            },
+            "Name": "Button_CFG",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 48,
+            "LabelText": "0 s",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 31.4508,
+              "Y": 1049.5422
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0491,
+              "Y": 0.9239
+            },
+            "PreSize": {
+              "X": 0.4688,
+              "Y": 0.0528
+            },
+            "LeftMargin": 31.4508,
+            "RightMargin": 308.5492,
+            "TopMargin": 56.4578,
+            "BottomMargin": 1019.5422,
+            "Tag": 23,
+            "ActionTag": 1698041769,
+            "Size": {
+              "X": 300.0,
+              "Y": 60.0
+            },
+            "Name": "Text_Time",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "R/add_speed.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 189,
+            "Scale9Height": 86,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 150.0,
+              "Y": 260.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2344,
+              "Y": 0.2289
+            },
+            "PreSize": {
+              "X": 0.3422,
+              "Y": 0.0951
+            },
+            "LeftMargin": 40.5,
+            "RightMargin": 380.5,
+            "TopMargin": 822.0,
+            "BottomMargin": 206.0,
+            "Tag": 40,
+            "ActionTag": -1077660607,
+            "Size": {
+              "X": 219.0,
+              "Y": 108.0
+            },
+            "Name": "Button_Add_Speed",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "R/minus_sprrd.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 189,
+            "Scale9Height": 80,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 490.0,
+              "Y": 260.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7656,
+              "Y": 0.2289
+            },
+            "PreSize": {
+              "X": 0.3422,
+              "Y": 0.0898
+            },
+            "LeftMargin": 380.5,
+            "RightMargin": 40.5,
+            "TopMargin": 825.0,
+            "BottomMargin": 209.0,
+            "Tag": 41,
+            "ActionTag": -548467536,
+            "Size": {
+              "X": 219.0,
+              "Y": 102.0
+            },
+            "Name": "Button_Minus_Speed",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1136.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "R/add_speed.png",
+        "R/MainScenceCFG.png",
+        "R/minus_sprrd.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

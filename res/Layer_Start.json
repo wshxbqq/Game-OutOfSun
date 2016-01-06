@@ -1,0 +1,325 @@
+{
+  "ID": "48e47316-946c-45d9-80a9-aa522d54bdb9",
+  "Version": "2.3.1.2",
+  "Name": "Layer_Start",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 20,
+        "Speed": 1.0,
+        "ActivedAnimationName": "a0",
+        "Timelines": [
+          {
+            "ActionTag": -531232515,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 317.3234,
+                "Y": 490.7179,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 345.6,
+                "Y": 470.1025,
+                "FrameIndex": 6,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 420.1248,
+                "Y": 610.6028,
+                "FrameIndex": 20,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -531232515,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 20,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -531232515,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 20,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [
+        {
+          "StartIndex": 0,
+          "EndIndex": 20,
+          "Name": "a0",
+          "ctype": "AnimationInfoData"
+        }
+      ],
+      "ObjectData": {
+        "Tag": 3,
+        "Children": [
+          {
+            "BackColorAlpha": 178,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 12,
+              "G": 12,
+              "B": 12
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 14,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "R/word/1.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 217,
+                "Scale9Height": 122,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 170.993,
+                  "Y": 876.0404
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2672,
+                  "Y": 0.7712
+                },
+                "PreSize": {
+                  "X": 0.3391,
+                  "Y": 0.1074
+                },
+                "LeftMargin": 62.493,
+                "RightMargin": 360.507,
+                "TopMargin": 198.9596,
+                "BottomMargin": 815.0404,
+                "Tag": 42,
+                "ActionTag": -115092887,
+                "Size": {
+                  "X": 217.0,
+                  "Y": 122.0
+                },
+                "Name": "Image_3",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "R/word/2.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 298,
+                "Scale9Height": 131,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 443.9677,
+                  "Y": 873.532
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6937,
+                  "Y": 0.769
+                },
+                "PreSize": {
+                  "X": 0.4656,
+                  "Y": 0.1153
+                },
+                "LeftMargin": 294.9677,
+                "RightMargin": 47.0323,
+                "TopMargin": 196.968,
+                "BottomMargin": 808.032,
+                "Tag": 43,
+                "ActionTag": -1872600835,
+                "Size": {
+                  "X": 298.0,
+                  "Y": 131.0
+                },
+                "Name": "Image_4",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 589117714,
+            "Size": {
+              "X": 640.0,
+              "Y": 1136.0
+            },
+            "Name": "Panel_Color",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "R/start_btn_main.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 251,
+            "Scale9Height": 258,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 317.3234,
+              "Y": 490.7179
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4958,
+              "Y": 0.432
+            },
+            "PreSize": {
+              "X": 0.4391,
+              "Y": 0.2465
+            },
+            "LeftMargin": 176.8234,
+            "RightMargin": 182.1766,
+            "TopMargin": 505.2821,
+            "BottomMargin": 350.7179,
+            "CallBackType": "Touch",
+            "Tag": 12,
+            "ActionTag": -531232515,
+            "Size": {
+              "X": 281.0,
+              "Y": 280.0
+            },
+            "Name": "Button_Start",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1136.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "R/start_btn_main.png",
+        "R/word/1.png",
+        "R/word/2.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}
